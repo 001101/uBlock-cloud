@@ -27,8 +27,17 @@ uBlock Origin Cloud
 
 
 ***
+**WIP - Not function currently - do not use productive -**
+**uBlock Origin Cloud**
 
-**An efficient blocker add-on for various browsers. Fast, potent, and lean.**
+The Cloud fork of the famous blocker for Chromium and Firefox
+
+Primary new functionallity to this fork is the exchange of user rules by a somehow cloud or p2p service.
+
+Cause you get cluttered today by about 2-3 interaction or newsletter signups or layer ups on websites, they changing also frequently, with a granular user defined rules set, for example you can define to exchange your private rules or just the instant blocks. 
+
+By exchanging this information quickly the user experience would get boosted extremely and the web would get to better place again, without all the distractions from misused UI implementations. 
+
 
 uBlock Origin is **NOT** an "ad blocker": [it is a wide-spectrum blocker](https://github.com/gorhill/uBlock/wiki/Blocking-mode) -- which happens to be able to function as a mere "ad blocker". The default behavior of uBlock Origin when newly installed is to block ads, trackers and malware sites -- through [_EasyList_](https://easylist.github.io/#easylist), [_EasyPrivacy_](https://easylist.github.io/#easyprivacy), [_Peter Lowe’s ad/tracking/malware servers_](https://pgl.yoyo.org/adservers/policy.php), [_Online Malicious URL Blocklist_](https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist), and uBlock Origin's [own filter lists](https://github.com/uBlockOrigin/uAssets/tree/master/filters).
 
